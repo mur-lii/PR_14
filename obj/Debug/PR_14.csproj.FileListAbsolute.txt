@@ -1,0 +1,2 @@
+D:\Users\1213-5\Documents\2-ИСП\Трухина\ОАиП\PR_14\obj\Debug\PR_14.csproj.AssemblyReference.cache
+D:\Users\1213-5\Documents\2-ИСП\Трухина\ОАиП\PR_14\obj\Debug\PR_14.csproj.CoreCompileInputs.cache
